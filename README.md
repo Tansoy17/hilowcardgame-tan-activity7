@@ -1,4 +1,4 @@
-# cardgame
+# HighLowActivity7Tan
 
 A new Flutter project.
 
